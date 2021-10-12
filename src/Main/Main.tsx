@@ -11,7 +11,7 @@ function Main() {
         <div className={s.text}>
           <span>Hi all</span>
           <h1>I'm <b>Roman GREBINCHAK</b></h1>
-          <p>A frontend-DEPLOY-DD</p>
+          <p>A frontend-DEPLOY-FF</p>
         </div>
         <div className={s.photoBlock}>
           <img className={s.photo} src={photo}/>
